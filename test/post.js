@@ -5,7 +5,7 @@ var Api = require('../lib/api');
 var api = new Api();
 
 var payload = JSON.stringify({
-  accessToken: '51731906.1f2b326.74f2cc4773594a108d48e647a37c7a8c',
+  accessToken: 'aaaa',
   mediaIds: ["24636230"]
 });
 
