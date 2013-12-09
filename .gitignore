@@ -20,6 +20,10 @@ node_modules/
 npm-debug.log
 
 
+# Dev  #
+# ######
+coverage/
+
 # Uploads #
 ###########
 uploads/
