@@ -33,6 +33,7 @@
   "license": "BSD-2-Clause",
   "dependencies": {
     "request": "~2.29.0",
-    "lodash": "~2.4.1"
+    "lodash": "~2.4.1",
+    "async": "~0.2.9"
   }
 }
