@@ -1,0 +1,31 @@
+{
+  "name": "seen-api",
+  "version": "0.1.0",
+  "description": "An API wrapper around the Seen API",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "seen-api",
+    "instagram",
+    "twitter"
+  ],
+  "Dependencies": {
+    "request": "*",
+    "async": "*"
+  },
+  "devDependencies": {
+    "mocha": "*",
+    "istanbul": "*"
+  },
+  "author": "brad",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "request": "~2.29.0",
+    "lodash": "~2.4.1"
+  }
+}
