@@ -3,6 +3,13 @@
   "version": "0.1.0",
   "description": "An API wrapper around the Seen API",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/bwalker8038/node-seen.git"
+  },
+  "bugs": {
+    "url": "http://github.com/bwalker8038/node-seen/issues"
+  },
   "directories": {
     "test": "test"
   },
