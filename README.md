@@ -10,7 +10,7 @@ Run the following command in your apps directory:
 ## Usage
 Require the seen api module in your app
 
-    var seen = require('seen-api');
+    var seen = require('node-seen');
     
 Once the module is included, Api endpoints can be called in the following fashion:
 
