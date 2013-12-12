@@ -1,5 +1,5 @@
 {
-  "name": "seen-api",
+  "name": "node-seen",
   "version": "0.1.0",
   "description": "An API wrapper around the Seen API",
   "main": "index.js",
