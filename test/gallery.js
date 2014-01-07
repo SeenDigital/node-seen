@@ -4,7 +4,7 @@ var Gallery = require('../lib/gallery');
 
 describe('Retrieve Gallery', function () {
   it('should retrieve a json object', function () {
-    var gallery = new Gallery('16447811');
+    var gallery = new Gallery('id', '16447811');
 
     gallery.on('campaign', function (campaign) {
       assert(true, typeof(gallery) === 'Object');
