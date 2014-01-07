@@ -23,14 +23,13 @@
   ],
   "devDependencies": {
     "mocha": "*",
-    "istanbul": "*"
+    "istanbul": "*",
+    "mocha-lcov-reporter": "0.0.1"
   },
   "author": "brad",
   "license": "BSD-2-Clause",
   "dependencies": {
     "request": "~2.29.0",
-    "async": "~0.2.9",
-    "q": "~0.9.7",
-    "mocha-lcov-reporter": "0.0.1"
+    "moment": "*"
   }
 }
