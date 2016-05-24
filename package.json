@@ -5,10 +5,10 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/bwalker8038/node-seen.git"
+    "url": "http://github.com/SeenDigital/node-seen.git"
   },
   "bugs": {
-    "url": "http://github.com/bwalker8038/node-seen/issues"
+    "url": "http://github.com/SeenDigital/node-seen/issues"
   },
   "directories": {
     "test": "test"
