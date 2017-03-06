@@ -29,8 +29,8 @@
   "author": "brad",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "request": "*",
+    "async": "*",
     "moment": "*",
-    "async": "*"
+    "request": "*"
   }
 }
